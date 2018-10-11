@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/constants/LikeSize.js"],"names":["SMALL","LARGE"],"mappings":";;;;;kBACe;AACbA,SAAO,OADM;AAEbC,SAAO;AAFM,C","file":"LikeSize.js","sourcesContent":["// @flow\nexport default {\n  SMALL: 'small',\n  LARGE: 'large',\n};\n"]}
